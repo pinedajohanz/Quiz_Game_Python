@@ -1,0 +1,3 @@
+# Highlights:
+- This is a quiz game created using Python that tests the user's knowledge on various aspects of the Python programming language. The program begins by displaying a graphic and asking the user if they want to play the quiz. If the user answers yes, the quiz begins. The quiz consists of 10 multiple-choice questions, with each correct answer being worth one point. The questions cover topics such as the history of Python, its features, and its syntax.
+- The program uses various Python concepts such as variables, comparison operators, and if-else statements. Additionally, the program uses the time module to pause the program for one second between each question. At the end of the quiz, the program displays the user's score and a message of encouragement.
